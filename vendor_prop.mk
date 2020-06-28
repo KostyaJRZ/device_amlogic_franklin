@@ -73,4 +73,4 @@ PRODUCT_PROPERTY_OVERRIDES +=  \
     service.bootvideo=0 \
     vendor.afbcd.enable=1 \
     wifi.direct.interface=p2p0 \
-    wifi.interface=wlan0 \
+    wifi.interface=wlan0
