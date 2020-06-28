@@ -1,0 +1,3 @@
+bin/iwpriv
+lib/libwfd_hdcp_adaptor.so
+product/lib/libwfd_jni.so
